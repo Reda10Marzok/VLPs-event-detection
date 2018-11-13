@@ -69,7 +69,7 @@ Componente_N=ysp_N;
 
 %%  Z component
 
-f='./DATA/20080515-000000-ETNA-ECPN-Z.sac';
+f='./20080515-000000-ETNA-ECPN-Z.sac';
 
     K=rsac(f);
     time=K(:,1);
